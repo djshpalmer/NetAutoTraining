@@ -1,0 +1,2 @@
+# NetAutoTraining
+IpSpace Project exercises
